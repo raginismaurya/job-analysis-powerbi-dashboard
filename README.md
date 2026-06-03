@@ -54,8 +54,6 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query (Data Cleaning)
 
-📷 Dashboard Preview
-![Dashboard](job-analysis-powerbi-dashboard/AI Insights.png)
 
 
 
