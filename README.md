@@ -55,7 +55,7 @@ DAX (Data Analysis Expressions)
 Power Query (Data Cleaning)
 
 📷 Dashboard Preview
-![Uploading image.png…]()
+![Dashboard](AI Insights.png)
 
 
 
