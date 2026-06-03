@@ -55,7 +55,7 @@ DAX (Data Analysis Expressions)
 Power Query (Data Cleaning)
 
 📷 Dashboard Preview
-![Dashboard](AI Insights.png)
+![Dashboard](job-analysis-powerbi-dashboard/AI Insights.png)
 
 
 
