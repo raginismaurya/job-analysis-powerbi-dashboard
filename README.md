@@ -74,8 +74,10 @@ Creating interactive dashboards
 Writing DAX measures
 Using AI visuals in Power BI
 Data storytelling
+
 👨‍💻 Author
 Ragini Maurya
+
 ⭐ Conclusion
 
 This dashboard provides a comprehensive analysis of layoffs and hiring trends and demonstrates how Power BI can be used for real-world business insights and decision-making.
